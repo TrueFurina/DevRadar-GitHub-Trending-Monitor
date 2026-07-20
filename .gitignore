@@ -19,8 +19,7 @@ env/
 *.swp
 *.swo
 
-# Runtime data (auto-created)
-data/devradar.db
+# Runtime data (auto-created, keep config.json excluded for token security)
 data/devradar.log
 data/config.json
 
