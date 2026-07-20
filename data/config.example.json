@@ -1,0 +1,15 @@
+{
+  "github_token": "YOUR_GITHUB_TOKEN_HERE",
+  "poll_interval_seconds": 300,
+  "trending_refresh_seconds": 600,
+  "snapshot_interval_hours": 6,
+  "report_period": "weekly",
+  "default_language": "python",
+  "notification_enabled": true,
+  "max_history_days": 30,
+  "socket_host": "127.0.0.1",
+  "socket_port": 9669,
+  "trending_source": "html",
+  "github_api_base": "https://api.github.com",
+  "trending_api_fallback": "https://gh-trending-api.herokuapp.com"
+}
