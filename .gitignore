@@ -23,10 +23,8 @@ env/
 data/devradar.log
 data/config.json
 
-# Personal / academic documents (not part of the open-source project)
+# Personal / academic documents
 doc/
-*.doc
-*.docx
 
 # OS artifacts
 Thumbs.db
